@@ -1,6 +1,4 @@
-AI system for automatic product classification from transportation invoices using real logistics data from Qom Province (2024). It converts unstructured product descriptions into structured semantic categories using NLP, embeddings, and fastText, improving data quality and consistency. The work is under preparation for publication.
-
-##Project Overview
+##**Project Overview**
 TransportationAnalytics is a data-driven AI system focused on automatic product classification from transportation invoices using real-world logistics data from Qom Province (2024). The project transforms unstructured and noisy product descriptions into structured semantic categories using Natural Language Processing (NLP), semantic embeddings, and fastText-based representations.
 
 The system is designed to improve data quality, consistency, and analytical capability in supply chain and logistics datasets.
