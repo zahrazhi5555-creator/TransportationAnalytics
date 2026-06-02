@@ -16,7 +16,7 @@ This project includes an interactive geospatial visualization of transportation 
 
 The visualization enables dynamic exploration of supply chain flows and helps identify high-traffic routes and regional logistics concentration.
 
-Interactive Map Visualization: [View Map](file:///C:/Users/SONY/Downloads/frequent_routes_map.html)
+Interactive Map Visualization: [View Map](https://zahrazhi5555-creator.github.io/TransportationAnalytics/)
 
 ## Research Outcome
 This project is currently under preparation for publication as a research paper based on the developed methodology for logistics data classification and semantic transformation of invoice-level product descriptions.
